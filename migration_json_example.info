@@ -1,0 +1,11 @@
+name = "Json Migration Example"
+description = "Example module to migrate JSON data into Drupal 7"
+package = "Development"
+core = 7.x
+dependencies[] = migrate
+dependencies[] = migrate_ui
+version = 7.x-1.0
+files[] = migration_json_example.migrate.inc
+
+files[] = inc/user.inc
+files[] = inc/article.inc

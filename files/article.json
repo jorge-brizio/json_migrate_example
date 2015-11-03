@@ -1,0 +1,38 @@
+[
+  {
+    "article_id": 1,
+    "title": "Ferdinand Magellan",
+    "text": "Although killed during the voyage, the expedition led by this famed Portuguese explorer was the first to circumnavigate the world. His expedition fleet, financed by Spain, which consisted of five ships left from Seville on August 10th 1519. Ferdinand Magellan was in search of a westward route to Indonesia and the modern day Maluku Islands (referred to as the Spice Islands). Although he was killed in the Philippines (at the Battle of Mactan) his fleet was successful in sailing around the world.",
+    "published": "2015/01/21",
+    "tag": "explorer, sailing",
+    "picture" : "Ferdinand_Magellan.jpg",
+    "account_id": 1
+  },
+  {
+    "article_id": 2,
+    "title": "Christopher Columbus",
+    "text": "When listing famous explorers Christopher Columbus is perhaps the most famous. In 1492 this Italian explorer sailed from Spain with three ships; the Nina, Pinta and Santa Maria in search of a westward route to the East Indies (the Indian subcontinent and Southeastern Asia). Instead of reaching the East Indies he landed in the Bahamas. Up until it was proven Leif Ericson sailed to America centuries before him, he was credited with discovering the New World. However he is credited with opening up the New World to European colonization.",
+    "published": "2015/01/21",
+    "tag": "explorer, sailing New World",
+    "picture" : "Christopher_Columbus.jpg",
+    "account_id": 2
+  },
+  {
+    "article_id": 3,
+    "title": "Leif Ericson",
+    "text": "This amazing Viking explorer is the first European to discover America. Leif Ericson sailed to North America around 998 AD which is around five hundred years before Christopher Columbus reached the new world. Just how or why he made this amazing voyage is not certain; there are conflicting stories. He may have been seeking out North America based on hearing about it from other Norse sailors. It is also possible the discovery was accidental and that his ships were blown off course while sailing back to Greenland from Norway.",
+    "published": "2015/01/21",
+    "tag": "explorer, Viking",
+    "picture" : "Christian-krohg-leiv-eriksson.jpg",
+    "account_id": 3
+  },
+  {
+    "article_id": 4,
+    "title": "Lewis and Clark",
+    "text": "Army officers Meriwether Lewis and William Clark are famous for their expedition of the Western United States. Soon after the Louisiana Purchase in April 1803 U.S. president Thomas Jefferson sent Lewis and Clark along with thirty three other men (named the Corps of Discovery) to explore the newly acquired land. They received great assistance from an American Indian woman named Sacagawea who served as an interpreter and guide. See the list below of accomplishments of this expedition.",
+    "published": "2015/01/21",
+    "tag": "expedition, scientific",
+    "picture" : "Lewis_and_Clark.jpg",
+    "account_id": 4
+  }
+]

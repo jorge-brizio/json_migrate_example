@@ -1,0 +1,15 @@
+<?php
+/**
+ * @file
+ * Name used to group the migration class and Urls definitions.
+ */
+
+// Migrate group for this migration.
+define('MIGRATION_JSON_EXAMPLE_GROUP', 'json_migrate');
+// Define where the Json files will be fetched from.
+// User json.
+define('MIGRATION_JSON_EXAMPLE_USER_URL', 'http://my-site/user.json');
+// Article json.
+define('MIGRATION_JSON_EXAMPLE_ARTICLE_URL', 'http://my-site/article.json');
+// Pictures json.
+define('MIGRATION_JSON_EXAMPLE_ARTICLE_IMAGES_JSON_URL', 'http://my-site/pictures/');
