@@ -1,5 +1,4 @@
-# json_migrate_example
-Import to Drupal 7 JSON (example)
+# Import to Drupal 7 JSON (example)
 
 ## This example covers
 * User migration
@@ -8,7 +7,7 @@ Import to Drupal 7 JSON (example)
 * Importing pictures declared in JSON file
 * Importing creating/terms from JSON file
 
-This basic example shows how to import JSON data into Drupal 7, it contains several files.
+This basic example shows how to import JSON data into Drupal 7 using migrate, it contains several files.
 The JSON files contain the data to be imported, you can find these files in the *files* folder. They consist of all users and articles,
 that will be imported. You can extend/modify this basic example to your needs.
 Improvements/suggestions are welcome.
